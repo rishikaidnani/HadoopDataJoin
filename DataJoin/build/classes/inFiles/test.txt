@@ -1,0 +1,2 @@
+1- Create a new Library in Netbeans and all Jar files inside $HADOOP_HOME/share/hadoop
+2- Add the newly created library to the attached project
